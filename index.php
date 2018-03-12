@@ -7,4 +7,4 @@
 		<a href='bilgilerilistele.php'>Bilgileri Listele</a>
 	</td>
 </tr>
-</table>
+</table>e
